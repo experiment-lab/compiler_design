@@ -12,6 +12,8 @@
 #   4         5           2
 #   5         5           5
 
+# ------------ DFA minimization by equivalence theorm ---------------
+
 # inputs
 M = lambda : map(int, input().split())
 print("Enter No. of state, inital state (space separeted) : ",end="")
