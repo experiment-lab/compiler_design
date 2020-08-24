@@ -1,4 +1,5 @@
-// no. of 0 divisible by 2 and no. of 1 divisible by 3
+// dfa accepting all strings containing
+// no. of 0`s divisible by 2 and no. of 1`s divisible by 3
 
 #include <iostream>
 #include<bits/stdc++.h>
