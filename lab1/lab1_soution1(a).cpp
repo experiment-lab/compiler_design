@@ -1,4 +1,7 @@
-// contain 3 consicative zero
+// contain 3 consecutive zeros
+// dfa containing 3 consecutive zeros ( anywhere in string )
+
+
 #include <iostream>
 #include<bits/stdc++.h>
 #include<algorithm>
