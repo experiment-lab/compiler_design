@@ -1,4 +1,5 @@
 // substring of 101
+// dfa accepting all strings containing 101( anywhere in string ) 
 
 #include <iostream>
 #include<bits/stdc++.h>
