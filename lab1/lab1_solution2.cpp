@@ -1,4 +1,8 @@
-// string contain 'the' in it anywhere
+// string contain 'the' in it anywhere in string 
+// dfa accept all string containg 'the'
+// Ex -->   'these' -> valid string
+//          'those' -> invalid string
+
 
 #include <iostream>
 #include<bits/stdc++.h>
