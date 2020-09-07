@@ -2,16 +2,15 @@
 % 
 { 
 /* Definition section */
-#include <math.h> 
-#include <string.h> 
-	void check(char*); 
-	% 
+ #include <math.h> 
+ #include <string.h> 
+ void check(char*); 
+% 
 } 
 
 /* Rule Section */
 % % 
-		[0 - 9] 
-	+ check(yytext); 
+		[0 - 9]+ check(yytext); 
 % % 
 
 int main() 
